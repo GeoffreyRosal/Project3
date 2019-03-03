@@ -9,7 +9,7 @@
 
 ## 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+(https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 Our Project focuses on facial recognition using machine learning. Training of the algorithm would be based on a dataset of celebrity faces. Our project would comprises 3 parts:
@@ -62,18 +62,8 @@ Built with:
 1. SightEngine API
 2. Parallel Dots API
 
-## License
 
-+ None
 
-## Acknowledgments
 
-+ 2018 Northwestern Data Science Boot Camp
-
-+ Joe's Mum 
-
-+ [Eli Rosenberg](https://www.linkedin.com/in/eli-rosenberg-33235420/)
-
-+ [Kalpesh Patel](https://www.linkedin.com/in/kalpesh-b-patel/)
 
 
